@@ -49,8 +49,8 @@
 </p>
 !-->
 
-### Frameworks
 <p>
+### Frameworks
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-4A90E2?style=flat-square&logo=next.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -58,8 +58,8 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 
-### Tools
 <p>
+### Tools
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img alt="EC2" src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
@@ -73,8 +73,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
 </p>
 
-### Languages
 <p>
+### Languages
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
