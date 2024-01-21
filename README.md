@@ -1,4 +1,10 @@
 <h3 align="center">Hi 👋 I'm Suman Mandal</h3>
+<p align="center">
+  <a href="https://app.daily.dev/sumanmandal">
+    <img src="https://api.daily.dev/devcards/8b8286d7a4bb48f6963de38c93597f2f.png?r=q2r" width="400" alt="Suman Mandal's Dev Card"/>
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2mandal&label=Profile%20views&color=0e75b6&style=flat" alt="suman2mandal" /> </p>
 
